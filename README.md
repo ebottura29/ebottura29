@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **eBottura29/eBottura29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi!
+# About Me
+My name is Enrico Bottura, I'm 15 years old and I live in Belgium. I was born in Brazil and moved to the EU when I was 7. I can speak Engish, Portuguese and Dutch fluently.
