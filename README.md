@@ -13,6 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi!
-# About Me
-My name is Enrico Bottura, I'm 15 years old and I live in Belgium. I was born in Brazil and moved to the EU when I was 7. I can speak Engish, Portuguese and Dutch fluently.
+# Hi!
+## About Me
+#### Name: Enrico Bottura
+
+#### Age: 15
+
+#### Country: Belgium
+
+#### Languages:
+* English
+* Portuguese
+* Dutch
+
+#### How to reach me: ebottura29@gmail.com
+
+#### Fun facts:
+* I moved to the EU when I was 7
+* I can solve the Rubik's Cube in under than 20 seconds
+* My favorite game *right now* is Geometry Dash
