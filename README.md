@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * Portuguese
 * Dutch
 
-#### How to reach me: ebottura29@gmail.com
+#### How to reach me: ebottura29@proton.me
 
 #### Fun facts:
 * I moved to the EU when I was 7
