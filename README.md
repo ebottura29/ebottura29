@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 #### Fun facts:
 * I moved to the EU when I was 7
 * I can solve the Rubik's Cube in under than 20 seconds
-* My favorite game *right now* is Geometry Dash
+* My favorite game *right now* is Kerbal Space Program
